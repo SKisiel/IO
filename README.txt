@@ -1,1 +1,1 @@
-In¿ynieria oprogramowania
+Inzynieria oprogramowania
