@@ -1,4 +1,4 @@
 Inzynieria oprogramowania - dokumentacja projektu - system sprzedazy biletow na mecz pilki noznej
-v0.99
+v1.00
 
 Stanislaw Kisiel
